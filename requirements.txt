@@ -1,0 +1,6 @@
+flask
+gunicorn
+torch
+transformers
+python-docx
+PyPDF2

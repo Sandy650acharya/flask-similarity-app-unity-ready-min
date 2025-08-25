@@ -4,3 +4,6 @@ torch
 transformers
 python-docx
 PyPDF2
+gradio_client
+gunicorn
+werkzeug
